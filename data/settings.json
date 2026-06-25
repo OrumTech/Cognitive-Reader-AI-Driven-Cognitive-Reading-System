@@ -1,0 +1,215 @@
+{
+ "learning": {
+  "adaptiveFlow": true,
+  "expectedWpm": 200,
+  "interleaving": true
+ },
+ "popups": {
+  "popup-id8zwt2whj": {
+   "body": "Your message…",
+   "buttons": [
+    {
+     "action": "close",
+     "label": "OK",
+     "style": "primary"
+    }
+   ],
+   "input": false,
+   "requireInteraction": false,
+   "timerSec": 0,
+   "title": "New popup"
+  },
+  "popup-progress-check": {
+   "body": "You've reached the middle of this document. Can you summarize the main argument so far in one sentence?",
+   "buttons": [
+    {
+     "action": "save_reflection",
+     "label": "Save my summary",
+     "style": "primary"
+    },
+    {
+     "action": "navigate_back",
+     "label": "Review earlier part",
+     "style": "ghost"
+    },
+    {
+     "action": "close",
+     "label": "Continue",
+     "style": "ghost"
+    }
+   ],
+   "input": true,
+   "requireInteraction": true,
+   "timerSec": 0,
+   "title": "📍 Halfway check-in"
+  },
+  "popup-slow-down": {
+   "body": "You're scrolling quickly. Skimming is fine — but if you want retention, slow down and engage with the text.",
+   "buttons": [
+    {
+     "action": "close",
+     "label": "Got it",
+     "style": "primary"
+    }
+   ],
+   "input": false,
+   "requireInteraction": false,
+   "timerSec": 8,
+   "title": "🐢 Slow down"
+  }
+ },
+ "questions": {
+  "autoClose": true,
+  "autoCloseSec": 14,
+  "enabled": true,
+  "intervalSec": 1800,
+  "maxOnScreen": 2,
+  "requiredInteraction": false,
+  "types": {
+   "comprehension": true,
+   "contextual": true,
+   "recall": true,
+   "reflection": true
+  }
+ },
+ "recentFiles": [
+  "D:/mmhosseinBlen/KONKUR/FanavarySanaye/new sanaie 1 - Copy.pdf",
+  "D:/mmhosseinBlen/KONKUR/Hands-On_Machine_Learning_with_Scikit-Learn-Keras-and-TensorFlow-2nd-Edition-Aurelien-Geron.pdf",
+  "D:/mmhosseinBlen/KONKUR/1-48.pdf",
+  "D:/mmhosseinBlen/KONKUR/CopleteMap_Of_Tech.pdf",
+  "D:/mmhosseinBlen/KONKUR/FanavarySanaye/new sanaie 1.pdf",
+  "D:/mmhosseinBlen/KONKUR/FanavarySanaye/Ketab1-65.docx"
+ ],
+ "rules": [
+  {
+   "action": {
+    "durationSec": 120,
+    "skippable": true,
+    "type": "intro_overlay"
+   },
+   "enabled": true,
+   "id": "rule-welcome-bubbles",
+   "name": "First-launch question bubbles",
+   "trigger": {
+    "type": "document_opened"
+   }
+  },
+  {
+   "action": {
+    "autoCloseSec": 14,
+    "questionType": "recall",
+    "required": false,
+    "type": "question",
+    "ui": "bubble"
+   },
+   "enabled": true,
+   "id": "rule-recall-30m",
+   "name": "Memory recall every 30 minutes",
+   "trigger": {
+    "everySec": 1800,
+    "type": "time_elapsed"
+   }
+  },
+  {
+   "action": {
+    "autoCloseSec": 12,
+    "questionType": "reflection",
+    "required": false,
+    "type": "question",
+    "ui": "bubble"
+   },
+   "enabled": true,
+   "id": "rule-idle-nudge",
+   "name": "Inactivity reflection nudge",
+   "trigger": {
+    "afterSec": 180,
+    "type": "inactivity"
+   }
+  },
+  {
+   "action": {
+    "autoCloseSec": 12,
+    "questionType": "contextual",
+    "required": false,
+    "type": "question",
+    "ui": "bubble"
+   },
+   "enabled": true,
+   "id": "rule-selection-question",
+   "name": "Selection-based contextual question",
+   "trigger": {
+    "cooldownSec": 90,
+    "minChars": 220,
+    "type": "selection"
+   }
+  },
+  {
+   "action": {
+    "popupId": "popup-progress-check",
+    "type": "popup"
+   },
+   "enabled": true,
+   "id": "rule-progress-checkin",
+   "name": "Progress check-in at 50%",
+   "trigger": {
+    "atPercent": 50,
+    "once": true,
+    "type": "progress"
+   }
+  },
+  {
+   "action": {
+    "autoCloseSec": 14,
+    "questionType": "comprehension",
+    "required": false,
+    "type": "question",
+    "ui": "bubble"
+   },
+   "enabled": true,
+   "id": "rule-checkpoint-review",
+   "name": "On new checkpoint: offer review",
+   "trigger": {
+    "cooldownSec": 120,
+    "type": "checkpoint_reached"
+   }
+  },
+  {
+   "action": {
+    "popupId": "popup-slow-down",
+    "type": "popup"
+   },
+   "enabled": true,
+   "id": "rule-scroll-fast",
+   "name": "Fast scrolling -> slow down popup",
+   "trigger": {
+    "cooldownSec": 240,
+    "minPxPerSec": 2600,
+    "type": "scroll_speed"
+   }
+  },
+  {
+   "action": {
+    "autoCloseSec": 12,
+    "questionType": "reflection",
+    "required": false,
+    "type": "question",
+    "ui": "bubble"
+   },
+   "enabled": true,
+   "id": "rule-idi1j7xifv",
+   "name": "New rule",
+   "trigger": {
+    "everySec": 600,
+    "type": "time_elapsed"
+   }
+  }
+ ],
+ "ui": {
+  "fontSize": 23,
+  "introDurationSec": 120,
+  "introOverlay": true,
+  "margin": 20,
+  "theme": "cream"
+ },
+ "version": 2
+}

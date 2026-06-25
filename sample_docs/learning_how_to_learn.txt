@@ -1,0 +1,41 @@
+# Learning How to Learn: A Practical Guide
+
+## 1. Introduction
+
+Learning is not a passive act of absorbing information. It is an active process of constructing understanding, testing it against reality, and repairing the gaps. The most effective learners are not those who read the most, but those who question the most. This guide explores the core techniques that cognitive science has validated over decades of research, from retrieval practice to the Feynman technique.
+
+Modern research shows that rereading and highlighting alone produce an illusion of competence. The text feels familiar, so the brain assumes it is known. True learning requires effortful recall, spaced repetition, and elaboration.
+
+## 2. The Feynman Technique
+
+Richard Feynman believed that if you cannot explain an idea simply, you do not understand it. The technique has four steps. First, choose a concept and write everything you know about it. Second, explain it as if teaching a twelve-year-old child, using plain language. Third, identify the places where your explanation breaks down or relies on jargon. Fourth, return to the source material, fill the gaps, and simplify again.
+
+The power of this method comes from exposing hidden gaps. Jargon is the camouflage of ignorance: it lets us repeat words without grasping mechanisms. By forcing simplicity, we force understanding.
+
+## 3. Retrieval Practice
+
+Testing yourself is more effective than rereading. When you struggle to recall an idea, the struggle itself strengthens the memory trace. This is called the testing effect. Flashcards, practice questions, and closed-book summaries all exploit this principle.
+
+A practical routine: after reading a section, close the book and write down everything you remember. Then compare with the original. The differences are your learning agenda for tomorrow.
+
+## 4. Spaced Repetition and Interleaving
+
+Cramming creates fast learning and fast forgetting. Spacing reviews over increasing intervals fights the forgetting curve discovered by Hermann Ebbinghaus. Review a new idea after one day, then three days, then a week, then a month.
+
+Interleaving means mixing different topics within a study session instead of blocking them. Although interleaving feels harder and slower, it produces stronger discrimination between concepts and better long-term transfer.
+
+## 5. یادگیری در زبان فارسی
+
+یادگیری فعال تنها به زبان انگلیسی محدود نمی‌شود. پژوهش‌های علوم شناختی نشان می‌دهد که بازیابی فعال، تکرار فاصله‌دار و توضیح ساده مفاهیم در هر زبانی مؤثر است. وقتی مطلبی را به زبان ساده برای دیگران توضیح می‌دهید، شکاف‌های دانش خود را پیدا می‌کنید.
+
+روش فاینمن می‌گوید: مفهومی را انتخاب کنید، آن را طوری توضیح دهید که یک کودک دوازده‌ساله بفهمد، نقاط ضعف توضیح خود را بیابید و دوباره به منبع اصلی بازگردید. این چرخه ساده، قوی‌ترین ابزار یادگیری عمیق است.
+
+## 6. Building a Personal Knowledge System
+
+Notes that are never revisited are dead weight. A living knowledge system links ideas across documents, turns highlights into questions, and schedules reviews automatically. Organize excerpts into thematic collections, like playlists for knowledge. Draw mind maps to expose the skeleton of an argument. Set checkpoints in long texts so you can navigate your own reading history.
+
+The goal is not to store information but to keep it in circulation. Knowledge that circulates becomes intuition.
+
+## 7. Conclusion
+
+Reading is the beginning, not the end. Question what you read, explain it simply, test yourself often, space your reviews, and connect everything to what you already know. The reader who interrogates a text remembers it; the reader who merely visits a text forgets it.

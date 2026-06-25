@@ -1,0 +1,1068 @@
+{
+ "blocks": {},
+ "checkpoints": [
+  {
+   "id": "idwmafu2sk",
+   "name": "10 | Chapter 1: The Machine Learning Lan…",
+   "scrollY": 35910,
+   "sectionId": "sec-129",
+   "ts": 1781126265121
+  },
+  {
+   "id": "idhwvn9v65",
+   "name": "3 Notice how animals are rather well sep…",
+   "scrollY": 36390,
+   "sectionId": "sec-130",
+   "ts": 1781126277589
+  },
+  {
+   "id": "idzq6caie6",
+   "name": "A related task is dimensionality reducti…",
+   "scrollY": 36870,
+   "sectionId": "sec-131",
+   "ts": 1781126282735
+  },
+  {
+   "id": "idyraljm9l",
+   "name": "• Clustering…",
+   "scrollY": 35070,
+   "sectionId": "sec-119",
+   "ts": 1781126287647
+  }
+ ],
+ "docId": "38a48734d42700f8",
+ "drawings": [
+  {
+   "bbox": [
+    765,
+    806,
+    813,
+    839
+   ],
+   "color": "#b08968",
+   "points": [
+    [
+     771,
+     833
+    ],
+    [
+     772,
+     832
+    ],
+    [
+     783,
+     826
+    ],
+    [
+     792,
+     820
+    ],
+    [
+     799,
+     816
+    ],
+    [
+     804,
+     814
+    ],
+    [
+     807,
+     812
+    ]
+   ],
+   "size": 6
+  },
+  {
+   "bbox": [
+    882,
+    803,
+    959,
+    851
+   ],
+   "color": "#b08968",
+   "points": [
+    [
+     952,
+     809
+    ],
+    [
+     953,
+     810
+    ],
+    [
+     951,
+     812
+    ],
+    [
+     948,
+     815
+    ],
+    [
+     945,
+     820
+    ],
+    [
+     940,
+     826
+    ],
+    [
+     937,
+     831
+    ],
+    [
+     935,
+     834
+    ],
+    [
+     934,
+     835
+    ],
+    [
+     935,
+     836
+    ],
+    [
+     940,
+     833
+    ],
+    [
+     934,
+     838
+    ],
+    [
+     918,
+     843
+    ],
+    [
+     904,
+     845
+    ],
+    [
+     891,
+     845
+    ],
+    [
+     888,
+     845
+    ],
+    [
+     893,
+     842
+    ],
+    [
+     906,
+     838
+    ],
+    [
+     921,
+     836
+    ],
+    [
+     927,
+     835
+    ]
+   ],
+   "size": 6
+  },
+  {
+   "bbox": [
+    1482,
+    934,
+    1658,
+    1027
+   ],
+   "color": "#b08968",
+   "points": [
+    [
+     1547,
+     940
+    ],
+    [
+     1546,
+     941
+    ],
+    [
+     1544,
+     941
+    ],
+    [
+     1540,
+     943
+    ],
+    [
+     1529,
+     945
+    ],
+    [
+     1513,
+     947
+    ],
+    [
+     1497,
+     952
+    ],
+    [
+     1491,
+     954
+    ],
+    [
+     1489,
+     954
+    ],
+    [
+     1488,
+     955
+    ],
+    [
+     1491,
+     955
+    ],
+    [
+     1502,
+     955
+    ],
+    [
+     1514,
+     955
+    ],
+    [
+     1525,
+     956
+    ],
+    [
+     1531,
+     958
+    ],
+    [
+     1532,
+     960
+    ],
+    [
+     1533,
+     972
+    ],
+    [
+     1533,
+     991
+    ],
+    [
+     1532,
+     1005
+    ],
+    [
+     1531,
+     1018
+    ],
+    [
+     1530,
+     1021
+    ],
+    [
+     1530,
+     1018
+    ],
+    [
+     1532,
+     1013
+    ],
+    [
+     1532,
+     1008
+    ],
+    [
+     1535,
+     999
+    ],
+    [
+     1538,
+     980
+    ],
+    [
+     1539,
+     969
+    ],
+    [
+     1541,
+     961
+    ],
+    [
+     1543,
+     953
+    ],
+    [
+     1544,
+     948
+    ],
+    [
+     1551,
+     946
+    ],
+    [
+     1572,
+     946
+    ],
+    [
+     1595,
+     948
+    ],
+    [
+     1613,
+     951
+    ],
+    [
+     1635,
+     954
+    ],
+    [
+     1650,
+     955
+    ],
+    [
+     1652,
+     955
+    ]
+   ],
+   "size": 6
+  }
+ ],
+ "events": [],
+ "highlights": [
+  {
+   "color": "#cce5ff",
+   "end": 354,
+   "id": "iddcufu5dw",
+   "mode": "pulse",
+   "sectionId": "sec-4",
+   "start": 306,
+   "text": "educational, business, or sales promotional use."
+  },
+  {
+   "color": "#cce5ff",
+   "end": 516,
+   "id": "id7g43j4va",
+   "mode": "flicker",
+   "sectionId": "sec-4",
+   "start": 504,
+   "text": "800-998-9938"
+  },
+  {
+   "color": "#d4edda",
+   "end": 17,
+   "id": "idpaskl9m0",
+   "mode": "solid",
+   "sectionId": "sec-1151",
+   "start": 0,
+   "text": "1 . m βm − η∇θJ θ"
+  },
+  {
+   "color": "#ffe9a8",
+   "end": 11,
+   "id": "ideebct07p",
+   "mode": "solid",
+   "sectionId": "sec-1152",
+   "start": 0,
+   "text": "2 . θ θ + m"
+  }
+ ],
+ "mindmap": {
+  "auto": true,
+  "edges": [
+   {
+    "from": "root",
+    "to": "n1"
+   },
+   {
+    "from": "n1",
+    "to": "n2"
+   },
+   {
+    "from": "n1",
+    "to": "n3"
+   },
+   {
+    "from": "root",
+    "to": "n4"
+   },
+   {
+    "from": "root",
+    "to": "n5"
+   },
+   {
+    "from": "root",
+    "to": "n6"
+   },
+   {
+    "from": "root",
+    "to": "n7"
+   },
+   {
+    "from": "root",
+    "to": "n8"
+   },
+   {
+    "from": "root",
+    "to": "n9"
+   },
+   {
+    "from": "root",
+    "to": "n10"
+   },
+   {
+    "from": "root",
+    "to": "n11"
+   },
+   {
+    "from": "root",
+    "to": "n12"
+   },
+   {
+    "from": "root",
+    "to": "n13"
+   },
+   {
+    "from": "root",
+    "to": "n14"
+   },
+   {
+    "from": "root",
+    "to": "n15"
+   },
+   {
+    "from": "root",
+    "to": "n16"
+   },
+   {
+    "from": "root",
+    "to": "n17"
+   },
+   {
+    "from": "root",
+    "to": "n18"
+   },
+   {
+    "from": "root",
+    "to": "n19"
+   },
+   {
+    "from": "root",
+    "to": "n20"
+   },
+   {
+    "from": "root",
+    "to": "n21"
+   },
+   {
+    "from": "root",
+    "to": "n22"
+   },
+   {
+    "from": "root",
+    "to": "n23"
+   },
+   {
+    "from": "root",
+    "to": "n24"
+   },
+   {
+    "from": "root",
+    "to": "n25"
+   },
+   {
+    "from": "root",
+    "to": "n26"
+   },
+   {
+    "from": "root",
+    "to": "n27"
+   },
+   {
+    "from": "root",
+    "to": "n28"
+   },
+   {
+    "from": "root",
+    "to": "n29"
+   },
+   {
+    "from": "n29",
+    "to": "n30"
+   },
+   {
+    "from": "n29",
+    "to": "n31"
+   },
+   {
+    "from": "n29",
+    "to": "n32"
+   },
+   {
+    "from": "n29",
+    "to": "n33"
+   },
+   {
+    "from": "n29",
+    "to": "n34"
+   },
+   {
+    "from": "n29",
+    "to": "n35"
+   },
+   {
+    "from": "n29",
+    "to": "n36"
+   },
+   {
+    "from": "n29",
+    "to": "n37"
+   },
+   {
+    "from": "n29",
+    "to": "n38"
+   },
+   {
+    "from": "n29",
+    "to": "n39"
+   },
+   {
+    "from": "n29",
+    "to": "n40"
+   },
+   {
+    "from": "n29",
+    "to": "n41"
+   },
+   {
+    "from": "n29",
+    "to": "n42"
+   },
+   {
+    "from": "n29",
+    "to": "n43"
+   },
+   {
+    "from": "n29",
+    "to": "n44"
+   },
+   {
+    "from": "n29",
+    "to": "n45"
+   },
+   {
+    "from": "n29",
+    "to": "n46"
+   },
+   {
+    "from": "root",
+    "to": "n47"
+   },
+   {
+    "from": "root",
+    "to": "n48"
+   },
+   {
+    "from": "root",
+    "to": "n49"
+   },
+   {
+    "from": "root",
+    "to": "n50"
+   },
+   {
+    "from": "root",
+    "to": "n51"
+   },
+   {
+    "from": "root",
+    "to": "n52"
+   },
+   {
+    "from": "root",
+    "to": "n53"
+   },
+   {
+    "from": "root",
+    "to": "n54"
+   },
+   {
+    "from": "root",
+    "to": "n55"
+   },
+   {
+    "from": "root",
+    "to": "n56"
+   },
+   {
+    "from": "root",
+    "to": "n57"
+   },
+   {
+    "from": "root",
+    "to": "n58"
+   },
+   {
+    "from": "root",
+    "to": "n59"
+   },
+   {
+    "from": "root",
+    "to": "n60"
+   }
+  ],
+  "nodes": [
+   {
+    "id": "root",
+    "label": "Hands-On_Machine_Learning_with_Scikit-Learn-Kera",
+    "level": 0,
+    "parent": null,
+    "sectionId": null
+   },
+   {
+    "id": "n1",
+    "label": "SECOND EDITION",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-2"
+   },
+   {
+    "id": "n2",
+    "label": "1. Cover additional ML topics: more unsupervised learning te",
+    "level": 2,
+    "parent": "n1",
+    "sectionId": "sec-57"
+   },
+   {
+    "id": "n3",
+    "label": "4. Migrate all TensorFlow chapters to TensorFlow 2, and use ",
+    "level": 2,
+    "parent": "n1",
+    "sectionId": "sec-59"
+   },
+   {
+    "id": "n4",
+    "label": "1005 Gravenstein Highway North",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-78"
+   },
+   {
+    "id": "n5",
+    "label": "PART I",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-82"
+   },
+   {
+    "id": "n6",
+    "label": "CHAPTER 1",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-84"
+   },
+   {
+    "id": "n7",
+    "label": "2 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-87"
+   },
+   {
+    "id": "n8",
+    "label": "4 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-90"
+   },
+   {
+    "id": "n9",
+    "label": "6 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-100"
+   },
+   {
+    "id": "n10",
+    "label": "8 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-109"
+   },
+   {
+    "id": "n11",
+    "label": "— DBSCAN",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-121"
+   },
+   {
+    "id": "n12",
+    "label": "10 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-129"
+   },
+   {
+    "id": "n13",
+    "label": "12 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-132"
+   },
+   {
+    "id": "n14",
+    "label": "14 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-135"
+   },
+   {
+    "id": "n15",
+    "label": "16 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-138"
+   },
+   {
+    "id": "n16",
+    "label": "18 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-141"
+   },
+   {
+    "id": "n17",
+    "label": "20 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-144"
+   },
+   {
+    "id": "n18",
+    "label": "Load the data",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-146"
+   },
+   {
+    "id": "n19",
+    "label": "Prepare the data",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-148"
+   },
+   {
+    "id": "n20",
+    "label": "Visualize the data",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-150"
+   },
+   {
+    "id": "n21",
+    "label": "Select a linear model",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-152"
+   },
+   {
+    "id": "n22",
+    "label": "Train the model",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-154"
+   },
+   {
+    "id": "n23",
+    "label": "Make a prediction for Cyprus",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-156"
+   },
+   {
+    "id": "n24",
+    "label": "22 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-158"
+   },
+   {
+    "id": "n25",
+    "label": "24 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-167"
+   },
+   {
+    "id": "n26",
+    "label": "26 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-178"
+   },
+   {
+    "id": "n27",
+    "label": "28 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-192"
+   },
+   {
+    "id": "n28",
+    "label": "30 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-207"
+   },
+   {
+    "id": "n29",
+    "label": "32 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-210"
+   },
+   {
+    "id": "n30",
+    "label": "1. How would you define Machine Learning?",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-212"
+   },
+   {
+    "id": "n31",
+    "label": "2. Can you name four types of problems where it shines?",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-213"
+   },
+   {
+    "id": "n32",
+    "label": "3. What is a labeled training set?",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-214"
+   },
+   {
+    "id": "n33",
+    "label": "4. What are the two most common supervised tasks?",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-215"
+   },
+   {
+    "id": "n34",
+    "label": "5. Can you name four common unsupervised tasks?",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-216"
+   },
+   {
+    "id": "n35",
+    "label": "6. What type of Machine Learning algorithm would you use to ",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-217"
+   },
+   {
+    "id": "n36",
+    "label": "7. What type of algorithm would you use to segment your cust",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-219"
+   },
+   {
+    "id": "n37",
+    "label": "8. Would you frame the problem of spam detection as a superv",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-221"
+   },
+   {
+    "id": "n38",
+    "label": "9. What is an online learning system?",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-223"
+   },
+   {
+    "id": "n39",
+    "label": "10. What is out-of-core learning?",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-224"
+   },
+   {
+    "id": "n40",
+    "label": "12. What is the difference between a model parameter and a l",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-226"
+   },
+   {
+    "id": "n41",
+    "label": "13. What do model-based learning algorithms search for? What",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-228"
+   },
+   {
+    "id": "n42",
+    "label": "14. Can you name four of the main challenges in Machine Lear",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-230"
+   },
+   {
+    "id": "n43",
+    "label": "16. What is a test set, and why would you want to use it?",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-232"
+   },
+   {
+    "id": "n44",
+    "label": "17. What is the purpose of a validation set?",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-233"
+   },
+   {
+    "id": "n45",
+    "label": "18. What is the train-dev set, when do you need it, and how ",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-234"
+   },
+   {
+    "id": "n46",
+    "label": "19. What can go wrong if you tune hyperparameters using the ",
+    "level": 2,
+    "parent": "n29",
+    "sectionId": "sec-235"
+   },
+   {
+    "id": "n47",
+    "label": "34 | Chapter 1: The Machine Learning Landscape",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-237"
+   },
+   {
+    "id": "n48",
+    "label": "CHAPTER 2",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-239"
+   },
+   {
+    "id": "n49",
+    "label": "36 | Chapter 2: End-to-End Machine Learning Project",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-248"
+   },
+   {
+    "id": "n50",
+    "label": "38 | Chapter 2: End-to-End Machine Learning Project",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-251"
+   },
+   {
+    "id": "n51",
+    "label": "40 | Chapter 2: End-to-End Machine Learning Project",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-260"
+   },
+   {
+    "id": "n52",
+    "label": "42 | Chapter 2: End-to-End Machine Learning Project",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-274"
+   },
+   {
+    "id": "n53",
+    "label": "44 | Chapter 2: End-to-End Machine Learning Project",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-277"
+   },
+   {
+    "id": "n54",
+    "label": "46 | Chapter 2: End-to-End Machine Learning Project",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-280"
+   },
+   {
+    "id": "n55",
+    "label": "<1H OCEAN     9136",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-283"
+   },
+   {
+    "id": "n56",
+    "label": "INLAND        6551",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-284"
+   },
+   {
+    "id": "n57",
+    "label": "NEAR OCEAN    2658",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-285"
+   },
+   {
+    "id": "n58",
+    "label": "NEAR BAY      2290",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-286"
+   },
+   {
+    "id": "n59",
+    "label": "ISLAND           5",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-287"
+   },
+   {
+    "id": "n60",
+    "label": "48 | Chapter 2: End-to-End Machine Learning Project",
+    "level": 1,
+    "parent": "root",
+    "sectionId": "sec-289"
+   }
+  ]
+ },
+ "notes": [
+  {
+   "color": "#fff3a8",
+   "id": "idcothid8r",
+   "rot": "-2.9",
+   "text": "dfdfd",
+   "x": 244,
+   "y": 1035
+  },
+  {
+   "color": "#ffd9e8",
+   "id": "idj7m6nma2",
+   "rot": "1.3",
+   "text": "yyy",
+   "x": 1481,
+   "y": 1326
+  }
+ ],
+ "progress": {
+  "lastSection": "sec-2636",
+  "percent": 100,
+  "scrollY": 1072411,
+  "sessions": 2,
+  "totalReadSec": 320
+ },
+ "reflections": [],
+ "savedAt": 1781126409.7998035
+}
