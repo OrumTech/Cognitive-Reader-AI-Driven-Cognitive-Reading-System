@@ -24,8 +24,8 @@ A fully offline (Local-first) reading application (PDF, DOCX, TXT) built on cogn
 
 ### Active Learning & Knowledge Structuring
 <div align="center">
-  <img src="https://via.placeholder.com/490x300.png?text=Auto-Generated+Mind+Map" alt="Mind Map" width="49%">
-  <img src="https://via.placeholder.com/490x300.png?text=Logic+Settings+and+Rule+Engine" alt="Rule Engine" width="49%">
+  <img src="https://github.com/OrumTech/Cognitive-Reader-AI-Driven-Cognitive-Reading-System/blob/main/screenshots/shot_mindmap.png" alt="Mind Map" width="49%">
+  <img src="https://github.com/OrumTech/Cognitive-Reader-AI-Driven-Cognitive-Reading-System/blob/main/screenshots/shot_rules.png" alt="Rule Engine" width="49%">
 </div>
 
 ---
