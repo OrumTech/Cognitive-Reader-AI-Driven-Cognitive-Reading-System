@@ -19,7 +19,7 @@ A fully offline (Local-first) reading application (PDF, DOCX, TXT) built on cogn
 
 ### Main Reading Interface & Smart Annotations
 <div align="center">
-  <img src="https://via.placeholder.com/1000x500.png?text=Main+Reading+View+-+RTL/LTR+Support+%26+Highlights" alt="Main Reading View" width="100%">
+  <img src="https://github.com/OrumTech/Cognitive-Reader-AI-Driven-Cognitive-Reading-System/blob/main/screenshots/shot_bubbles.png" alt="Main Reading View" width="100%">
 </div>
 
 ### Active Learning & Knowledge Structuring
